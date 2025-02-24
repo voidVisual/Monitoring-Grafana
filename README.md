@@ -2,10 +2,9 @@
 
 This repository provides a guide for setting up Grafana, Loki, Promtail, Prometheus, and cAdvisor for monitoring and visualization purposes. Below are the steps to install and configure these tools.
 
-## Video Tutorial
-[Watch the tutorial on YouTube](https://youtu.be/QwGm5m4AxNA)
 
-## Install Grafana on Debian or Ubuntu
+
+## Install Grafana Ubuntu
 ```bash
 sudo apt-get install -y apt-transport-https
 sudo apt-get install -y software-properties-common wget
